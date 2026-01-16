@@ -41,3 +41,5 @@ DOMAIN,th.bing.com
 DOMAIN,www.bing.com
 DOMAIN,www.bingapis.com
 DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,graph.microsoft.com
+DOMAIN-SUFFIX,graph.microsoft.com
